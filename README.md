@@ -1,5 +1,5 @@
 Hi there! 
-I'm Rayyan, with a 1 year of python experience and a beginner learning Github.
-I'm currently learning Github , Python and Java script.
+I'm Rayyan, with 1 year of Python experience and a beginner learning GitHub.
+I'm currently learning GitHub, Python, and JavaScript.
 I started coding at 11!
-Tools: Vs code , GitHub , Python.
+Tools: VS Code, GitHub, Python.
